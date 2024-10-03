@@ -1,0 +1,5 @@
+def saludo(nombre):
+    print(f"¡Hola, {nombre}! ¡Bienvenido!")
+
+# Llamada a la función
+saludo("Profesor")

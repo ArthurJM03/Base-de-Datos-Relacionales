@@ -27,7 +27,7 @@ Antes de ejecutar los archivos, asegúrate de tener instalado lo siguiente:
    - Abre una terminal o línea de comandos.
    - Ejecuta el siguiente comando para clonar el repositorio:
      ```bash
-     git clone https://github.com/Ashur03/Base-De-Datos-Relacionales.git
+     git clone https://github.com/AshurJM03/Base-De-Datos-Relacionales.git
      ```
 
 2. **Configurar la base de datos:**
@@ -44,7 +44,7 @@ Antes de ejecutar los archivos, asegúrate de tener instalado lo siguiente:
 3. **Ejecutar los scripts SQL:**
    - Para ejecutar los archivos SQL, abre el cliente SQL y carga el archivo correspondiente. Por ejemplo, en MySQL:
      ```bash
-     mysql -u root -p nombre_base_datos < Clase_01_Titulo_Clase_Crear_Tablas/crear_tabla.sql
+     mysql -u root -p nombre_base_datos < Clase_1_Titulo_Clase_Crear_Tablas/crear_tabla.sql
      ```
 
 ### Descripción de Ejercicios y Contenido por Clase
